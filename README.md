@@ -6,7 +6,7 @@ requirement :
 how to run :
 
 ``` 
-python problem3.py
+python train.py
     --T step
     --D nfeature
     --op optimizer #SGD/SGDM/ADAM
