@@ -1,4 +1,4 @@
-This is the code for [PFN internship](https://www.preferred-networks.jp/en/news/internship2019) selection test i did last golden week (2019). I implemented [Graph Neural Network](https://arxiv.org/abs/1810.00826) for graph classification task, with its optimizer using [numerical differentiation method](https://en.wikipedia.org/wiki/Numerical_differentiation). Three [gradient based optimizer](http://ruder.io/optimizing-gradient-descent/) are implemented : Stochastic Gradient Descenti(SGD), Stochastic Gradient Descent with Momentum(SGDM) and Adaptive Moment Estimation (ADAM).
+This is the code for the [PFN internship](https://www.preferred-networks.jp/en/news/internship2019) selection test I did last golden week (2019). I implemented the [Graph Neural Network](https://arxiv.org/abs/1810.00826) for a graph classification task, using [numerical differentiation method](https://en.wikipedia.org/wiki/Numerical_differentiation). Three [gradient based optimizer](http://ruder.io/optimizing-gradient-descent/) were implemented : Stochastic Gradient Descenti(SGD), Stochastic Gradient Descent with Momentum(SGDM) and Adaptive Moment Estimation (ADAM).
 
 requirements :
 ``` 
