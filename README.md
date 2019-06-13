@@ -5,7 +5,7 @@ requirement :
 
 how to run :
 
-'''
+``` 
 python problem3.py
     --T step
     --D nfeature
@@ -18,5 +18,5 @@ python problem3.py
     --ep epoch
     --datadir dir
     --testsize testratio
-'''
+```
 
