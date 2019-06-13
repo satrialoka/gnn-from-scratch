@@ -2,8 +2,8 @@ This is the code for [PFN internship](https://www.preferred-networks.jp/en/news/
 
 requirement :
 ``` 
-    Python 3.6.3
-    Numpy 1.13.3
+Python 3.6.3
+Numpy 1.13.3
 ``` 
 how to run :
 
